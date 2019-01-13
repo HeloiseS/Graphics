@@ -1,5 +1,5 @@
 
-# "What's an..." infographic.
+# "What's a..." Science Infographics.
 
 What's a Supernova? What's a Star? What's a blackhole?
 
@@ -10,10 +10,10 @@ Those are cool questions with cool answers. One of the best way to explain compl
 All the work in this directory is **completely Open Source**!. Under the [CC-BY-NC License 4.0](https://creativecommons.org/licenses/by-nc/4.0/), **you can use, share and modify** this work **for free**, so long as it is for **non-commercial** purposes, and you **give** attribution. 
 
 Attribution if used or shared as is:
-"Original desgin by H. F. Stevance / "
+"Original desgin by H. F. Stevance / https://github.com/HeloiseS/infographics "
 
 Attribution if modified or used in parts only:
-"From an original design by H. F Stevance / "
+"From an original design by H. F Stevance / https://github.com/HeloiseS/infographics "
 
 ## Upcoming work
 
