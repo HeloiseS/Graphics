@@ -7,13 +7,19 @@ Those are cool questions with cool answers. One of the best way to explain compl
 
 ## Using these resources
 
+Each infographic comes in `.pdf` and `.svg` format. You can use the PDF as is or extracts particular elements from the SVG file easily by opening in a vector graphics editor. **You don't need anything fancy!** All these designs where created in [Inkscape](https://inkscape.org/) which is completely free! From Inkscape you can modify these designs to fit your needs... which brings me onto the most important things here:  
+
 All the work in this directory is **completely Open Source**!. Under the [CC-BY-NC License 4.0](https://creativecommons.org/licenses/by-nc/4.0/), **you can use, share and modify** this work **for free**, so long as it is for **non-commercial** purposes, and you **give** attribution. 
 
 Attribution if used or shared as is:
+
 `"Original desgin by H. F. Stevance / https://github.com/HeloiseS/infographics "`
 
 Attribution if modified or used in parts only:
+
 `"From an original design by H. F Stevance / https://github.com/HeloiseS/infographics "`
+
+I hope that what I'm going to put here will be useful. Feel free to get in touch (see below)!
 
 ## Upcoming work
 
@@ -25,7 +31,9 @@ I've got some plans as to what I want to create in th future:
  - "What's a Pulsar?"
  - etc...
  
- **Want to make a suggestion? Feel free to send me an email at hfstevance@gmail.com**
+### Contact
+
+hfstevance@gmail.com
 
 
 
