@@ -1,7 +1,7 @@
 
-# "What's a..." AstroGraphics.
+# "What's a..." Sci-fographics.
 
-Short for Astronomy Infographics.
+Short for Science infographics.
 
 What's a Supernova? What's a Star? What's a blackhole?
 
