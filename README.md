@@ -36,7 +36,7 @@ You can also access these and use them or modify them for your own projects.
 
 Each infographic comes in `.pdf` and `.svg` format as well as `.png`. You can use the PDF as is or extracts particular elements from the SVG file easily by opening in a vector graphics editor. **You don't need anything fancy!** All these designs where created in [Inkscape](https://inkscape.org/) which is completely free! From Inkscape you can modify these designs to fit your needs... which brings me onto the most important things here:  
 
-All the work in this repository is **completely open**! Under the [CC-BY-NC License 4.0](https://creativecommons.org/licenses/by-nc/4.0/), **you can use, share and modify** this work **for free**, so long as it is for **non-commercial** purposes, and you **give** attribution. 
+All the work in this repository is **completely open**! Under the [CC-BY License 4.0](https://creativecommons.org/licenses/by/4.0/), **you can use, share and modify** this work **for free**, so long as you **give** attribution. 
 
 Attribution if used or shared as is:
 
@@ -64,5 +64,4 @@ hfstevance@gmail.com
 
 
 
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
