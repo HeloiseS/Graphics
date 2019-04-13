@@ -7,6 +7,10 @@ There are two main purposes:
 * 1. I can have access to my stuff anywhere in the world so long as I have an internet connection
 * 2. Some people don't fancy messing about in inkscape for 3 hours to get a graph to look nice. So all my stuff is placed under an open license (see below for details): you can use and modify this at will and for free so long as you give credit.
 
+**If you end up using these resources and use twitter, send me a pic of the result @sydonahi! I'd love to see this stuff being useful to people!**
+
+**I do a lot of this for fun, so I'm more than happy to make custom graphs on requests for free. Hit me up on twitter @Sydonahi or send me an email hftsevance@gmail.com**
+
 
 ## Science Graphics
 
