@@ -9,7 +9,7 @@ There are two main purposes:
 
 **If you end up using these resources and use twitter, send me a pic of the result @sydonahi! I'd love to see this stuff being useful to people!**
 
-**I do a lot of this for fun, so I'm more than happy to make custom graphs on requests for free. Hit me up on twitter @Sydonahi or send me an email hftsevance@gmail.com**
+*I do a lot of this for fun, so I'm more than happy to make custom graphs on requests for free. Hit me up on twitter @Sydonahi or send me an email hftsevance@gmail.com *
 
 
 ## Science Graphics
