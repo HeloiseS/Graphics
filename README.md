@@ -4,8 +4,8 @@
 
 Welcome! This repo is intended as a collection of some of the graphics and illustrations I have created. 
 There are two main purposes:
-* 1. I can have access to my stuff anywhere in the world so long as I have an internet connection
-* 2. Some people don't fancy messing about in inkscape for 3 hours to get a graph to look nice. So all my stuff is placed under an open license (see below for details): you can use and modify this at will and for free so long as you give credit.
+1. I can have access to my stuff anywhere in the world so long as I have an internet connection
+2. Some people don't fancy messing about in inkscape for 3 hours to get a graph to look nice. So all my stuff is placed under an open license (see below for details): you can use and modify this at will and for free so long as you give credit.
 
 **If you end up using these resources and use twitter, send me a pic of the result @sydonahi! I'd love to see this stuff being useful to people!**
 
