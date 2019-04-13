@@ -1,6 +1,6 @@
 
-Graphics and Illustrations
----
+# Graphics and Illustrations
+
 
 Welcome! This repo is intended as a collection of some of the graphics and illustrations I have created. 
 There are two main purposes:
