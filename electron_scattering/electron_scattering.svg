@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="electron_scattering.svg"
+   inkscape:export-filename="/home/heloise/Thesis/figures/intro/thomson_scattering.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6323"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#b1b1b1;stroke-opacity:1;fill:#b1b1b1;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker7240"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lstart">
+      <path
+         transform="scale(1.1) translate(1,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path7242" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="27.142858 : 686.18111 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="515.52306 : 886.18111 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.7874 : 1"
+       id="perspective4679" />
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker7218"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path7220"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker7010"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path7012"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker6803"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5615"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker5853"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path5730"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#56f7bb;stroke-width:1pt;stroke-opacity:1;fill:#56f7bb;fill-opacity:1"
+         transform="scale(-0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleInL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4275"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#9c0000;stroke-width:1pt;stroke-opacity:1;fill:#9c0000;fill-opacity:1"
+         transform="scale(-0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker6659"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path6661"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4160"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutL"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4284"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#9c0000;stroke-width:1pt;stroke-opacity:1;fill:#9c0000;fill-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4163"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4145"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4576"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path4578" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4576-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4578-6" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker4576-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 Z"
+         id="path4578-5" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleInL-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4275-6"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#9c0000;fill-opacity:1;fill-rule:evenodd;stroke:#9c0000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.8,-0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4284-9"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#9c0000;fill-opacity:1;fill-rule:evenodd;stroke:#9c0000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.8,0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5853-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5730-6"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#9effdb;fill-opacity:1;fill-rule:evenodd;stroke:#9effdb;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.8,-0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5853-5"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5730-3"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff715b;fill-opacity:1;fill-rule:evenodd;stroke:#ff715b;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.8,-0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5853-5-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5730-3-2"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff715b;fill-opacity:1;fill-rule:evenodd;stroke:#ff715b;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.8,-0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5853-5-1"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5730-3-27"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff715b;fill-opacity:1;fill-rule:evenodd;stroke:#ff715b;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.8,-0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5853-5-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5730-3-3"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff715b;fill-opacity:1;fill-rule:evenodd;stroke:#ff715b;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(-0.8,-0.8)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7010-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7012-5"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7010-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7012-9"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker7218-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path7220-3"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(1.1,0,0,1.1,1.1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6323-8"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-4"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6323-7"
+         style="fill:#ff6363;fill-opacity:1;fill-rule:evenodd;stroke:#ff6363;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-4-8"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6323-7-9"
+         style="fill:#b1b1b1;fill-opacity:1;fill-rule:evenodd;stroke:#b1b1b1;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-4-6"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6323-7-8"
+         style="fill:#b1b1b1;fill-opacity:1;fill-rule:evenodd;stroke:#b1b1b1;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-9"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6323-0"
+         style="fill:#b1b1b1;fill-opacity:1;fill-rule:evenodd;stroke:#b1b1b1;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mstart-4-6-3"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path6323-7-8-3"
+         style="fill:#b1b1b1;fill-opacity:1;fill-rule:evenodd;stroke:#b1b1b1;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="-6.5486631"
+     inkscape:cy="721.02741"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1859"
+     inkscape:window-height="1056"
+     inkscape:window-x="61"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="grid"
+     style="opacity:0.62">
+    <g
+       style="stroke:#424242;stroke-width:0.7098403;stroke-opacity:1"
+       id="g6213"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       transform="matrix(1.4087857,0,0,1.4087495,-191.01168,-71.572389)"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4522-6-4"
+         d="m 236.01362,568.7714 0.72896,-296.0242"
+         style="fill:none;fill-rule:evenodd;stroke:#424242;stroke-width:0.7098403;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4522-6-2-78"
+         d="m 273.58461,536.81271 0.72896,-296.0242"
+         style="fill:none;fill-rule:evenodd;stroke:#424242;stroke-width:0.7098403;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4522-6-7-4"
+         d="m 311.32957,504.7471 0.72897,-296.02419"
+         style="fill:none;fill-rule:evenodd;stroke:#424242;stroke-width:0.7098403;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4492-6-5"
+         d="M 329.28823,289.82038 156.85173,434.50481"
+         style="fill:none;fill-rule:evenodd;stroke:#424242;stroke-width:0.7098403px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4492-6-0-0"
+         d="M 330.29004,371.90402 157.85353,516.58845"
+         style="fill:none;fill-rule:evenodd;stroke:#424242;stroke-width:0.7098403px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4492-6-6-3"
+         d="M 329.31728,450.51592 156.88077,595.20035"
+         style="fill:none;fill-rule:evenodd;stroke:#424242;stroke-width:0.7098403px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4522-6-23-6"
+         d="m 214.56953,587.2409 0.72896,-296.0242"
+         style="fill:none;fill-rule:evenodd;stroke:#424242;stroke-width:0.7098403;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4522-6-2-7-1"
+         d="m 255.45674,551.41632 0.72896,-296.0242"
+         style="fill:none;fill-rule:evenodd;stroke:#424242;stroke-width:0.7098403;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4522-6-7-5-0"
+         d="m 293.04244,520.25842 0.72897,-296.02419"
+         style="fill:none;fill-rule:evenodd;stroke:#424242;stroke-width:0.7098403;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4492-6-9-6"
+         d="M 329.86686,243.11058 157.43035,387.795"
+         style="fill:none;fill-rule:evenodd;stroke:#424242;stroke-width:0.7098403px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4492-6-0-2-3"
+         d="M 329.79421,331.31217 157.35769,475.99659"
+         style="fill:none;fill-rule:evenodd;stroke:#424242;stroke-width:0.7098403px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4492-6-6-2-2"
+         d="M 328.72487,412.21827 156.28836,556.90271"
+         style="fill:none;fill-rule:evenodd;stroke:#424242;stroke-width:0.7098403px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4522-6-23-6-0"
+         d="m 193.92123,603.94573 0.72896,-296.0242"
+         style="fill:none;fill-rule:evenodd;stroke:#424242;stroke-width:0.7098403;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       style="stroke:#585858;stroke-width:0.7098403;stroke-opacity:1"
+       id="g6199"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       transform="matrix(1.4087857,0,0,1.4087495,-191.01168,-71.572389)"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4522-6-4-6"
+         d="M 507.02456,515.45709 505.71243,219.86794"
+         style="fill:none;fill-rule:evenodd;stroke:#585858;stroke-width:0.70984024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4522-6-2-78-1"
+         d="M 600.111,528.06426 598.79887,232.47513"
+         style="fill:none;fill-rule:evenodd;stroke:#585858;stroke-width:0.70984024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4522-6-7-4-5"
+         d="M 370.74144,497.09693 369.42929,201.50779"
+         style="fill:none;fill-rule:evenodd;stroke:#585858;stroke-width:0.70984024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4492-6-5-5"
+         d="m 329.84439,290.0311 310.38603,41.77131"
+         style="fill:none;fill-rule:evenodd;stroke:#585858;stroke-width:0.70984024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4492-6-0-0-4"
+         d="m 328.04112,372.71264 310.38606,41.77133"
+         style="fill:none;fill-rule:evenodd;stroke:#585858;stroke-width:0.70984024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4492-6-6-3-7"
+         d="m 329.79209,450.74399 310.38605,41.77132"
+         style="fill:none;fill-rule:evenodd;stroke:#585858;stroke-width:0.70984024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4522-6-23-6-6"
+         d="M 554.90971,520.41408 553.59757,224.82494"
+         style="fill:none;fill-rule:evenodd;stroke:#585858;stroke-width:0.70984024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4522-6-2-7-1-5"
+         d="M 459.16976,507.56313 457.85764,211.97399"
+         style="fill:none;fill-rule:evenodd;stroke:#585858;stroke-width:0.70984024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4522-6-7-5-0-6"
+         d="M 412.94402,501.69418 411.63186,206.10504"
+         style="fill:none;fill-rule:evenodd;stroke:#585858;stroke-width:0.70984024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4492-6-9-6-9"
+         d="M 328.80284,243.66665 639.1889,285.43796"
+         style="fill:none;fill-rule:evenodd;stroke:#585858;stroke-width:0.70984024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4492-6-0-2-3-3"
+         d="M 328.93362,331.82486 639.3197,373.59617"
+         style="fill:none;fill-rule:evenodd;stroke:#585858;stroke-width:0.70984024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4492-6-6-2-2-7"
+         d="m 330.85843,412.09278 310.38606,41.77133"
+         style="fill:none;fill-rule:evenodd;stroke:#585858;stroke-width:0.70984024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <g
+       style="stroke:#999999;stroke-width:0.7098403;stroke-opacity:1"
+       id="g6228"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       transform="matrix(1.4087857,0,0,1.4087495,-191.01168,-71.572389)"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png">
+      <g
+         id="g6032"
+         style="stroke:#999999;stroke-width:0.7098403;stroke-opacity:1">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.7098403;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 263.1513,629.94362 413.58548,502.51823"
+           id="path4522-6"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.7098403;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 356.92577,642.50347 507.35995,515.07808"
+           id="path4522-6-2"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.7098403;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 449.78292,656.07489 600.2171,528.64951"
+           id="path4522-6-7"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.7098403px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 599.92941,564.30483 294.1919,521.9631"
+           id="path4492-6"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.7098403px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 560.01162,595.67592 254.27411,553.33419"
+           id="path4492-6-0"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.7098403px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 520.01161,629.96164 214.2741,587.61991"
+           id="path4492-6-6"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.7098403;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 220.06413,624.43784 370.49831,497.01245"
+           id="path4522-6-23"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.7098403;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 310.98145,636.2834 461.41563,508.85801"
+           id="path4522-6-2-7"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.7098403;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 405.26718,648.42625 555.70136,521.00087"
+           id="path4522-6-7-5"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.7098403px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 616.84224,548.79905 311.10473,506.45732"
+           id="path4492-6-9"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.7098403px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 579.78159,580.17014 274.04408,537.82841"
+           id="path4492-6-0-2"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.7098403px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 540.49587,613.02729 234.75836,570.68556"
+           id="path4492-6-6-2"
+           inkscape:connector-curvature="0"
+           inkscape:export-xdpi="90"
+           inkscape:export-ydpi="90" />
+      </g>
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:connector-curvature="0"
+         id="path4492-6-6-2-1"
+         d="M 499.29733,647.81879 193.55982,605.47706"
+         style="fill:none;fill-rule:evenodd;stroke:#999999;stroke-width:0.7098403px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker7010)"
+       d="M 60.661876,799.38658 272.59138,619.87611"
+       id="path4522"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker7218)"
+       d="m 703.69318,679.42398 -430.7186,-59.6489"
+       id="path4492"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker6803)"
+       d="m 274.33822,137.3109 -1.42308,480.99155 0,1.42306"
+       id="path4432"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#494949;fill-opacity:0.80582521;fill-rule:nonzero;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:0;stroke-dasharray:12, 6;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4566"
+       width="380.62399"
+       height="477.14316"
+       x="316.27454"
+       y="-14.102103"
+       rx="0"
+       ry="0"
+       transform="matrix(0.86560389,0.50072937,-0.00172714,0.99999851,0,0)"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png" />
+    <ellipse
+       style="opacity:1;fill:#7ab4ea;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path7806"
+       cx="413.8114"
+       cy="449.72662"
+       rx="13.875113"
+       ry="14.052638"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#56f7bb;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker5853)"
+       d="m 587.74862,556.24344 -8.33881,-4.26454"
+       id="path4568-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png" />
+    <path
+       style="fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:#9effdb;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:1;stroke-dasharray:none;stroke-opacity:1"
+       d="M 283.95034,586.82389 388.60298,471.1052"
+       id="path10205"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png" />
+    <path
+       style="fill:#3e9e7a;fill-opacity:1;fill-rule:evenodd;stroke:#56f7bb;stroke-width:3;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 418.79124,451.48334 c 0,0 166.03546,105.65622 171.06683,105.65622"
+       id="path10209"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png" />
+    <path
+       style="fill:#ff1153;fill-opacity:1;fill-rule:evenodd;stroke:#ff1153;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 376.52767,512.36142 576.77649,469.09269"
+       id="path10215"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png" />
+    <path
+       style="fill:#ff1153;fill-opacity:1;fill-rule:evenodd;stroke:#ff1153;stroke-width:1.99999988;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 426.31929,549.02327 637.67513,501.86212"
+       id="path10215-6"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f7f5f3;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 481.35453,461.02644 -0.34843,60.40748"
+       id="path10234"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f7f5f3;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 488.11158,496.02781 -13.34335,2.82395 -8.83291,-5.64788"
+       id="path10242"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f7f5f3;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 481.14921,479.78137 13.11841,-2.68264 -0.38584,9.65744"
+       id="path10248"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png" />
+    <path
+       style="fill:#9effdb;fill-opacity:1;fill-rule:evenodd;stroke:#9effdb;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker5853-3)"
+       d="m 391.04886,467.74832 -6.19542,7.02406"
+       id="path4568-3-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="419.21332"
+       y="595.77325"
+       id="text11415"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="419.21332"
+         y="595.77325"
+         id="tspan11419" /></text>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.87378696;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4630-2"
+       width="128.80324"
+       height="82.512482"
+       x="184.83218"
+       y="447.45831"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10139"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#9effdb;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.4087857,0,0,1.4087495,-366.10362,-59.49739)"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png"><flowRegion
+         id="flowRegion10141"><rect
+           id="rect10143"
+           width="186.42857"
+           height="50.000008"
+           x="342.85715"
+           y="364.50507"
+           style="fill:#9effdb;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara10147"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:center;text-anchor:middle;fill:#9effdb;fill-opacity:1">inbound </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:center;text-anchor:middle;fill:#9effdb;fill-opacity:1"
+         id="flowPara4472">radiation</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.87378696;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4630-2-2"
+       width="139.87227"
+       height="82.512482"
+       x="470.11127"
+       y="577.76764"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10139-2"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#3bffb5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.4087857,0,0,1.4087495,-74.786864,70.811953)"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png"><flowRegion
+         id="flowRegion10141-05"><rect
+           id="rect10143-5"
+           width="186.42857"
+           height="50.000008"
+           x="342.85715"
+           y="364.50507"
+           style="fill:#3bffb5;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:center;text-anchor:middle;fill:#3bffb5;fill-opacity:1"
+         id="flowPara4677">outbound </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:center;text-anchor:middle;fill:#3bffb5;fill-opacity:1"
+         id="flowPara4472-9">radiation</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.87378696;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4630-2-28"
+       width="191.86198"
+       height="29.859552"
+       x="460.90677"
+       y="426.93857"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10139-7-6"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff1153;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(1.4087857,0,0,1.4087495,-16.833189,-87.961978)"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png"><flowRegion
+         id="flowRegion10141-0-0"><rect
+           id="rect10143-9-6"
+           width="237.85713"
+           height="30.714285"
+           x="342.85715"
+           y="364.50507"
+           style="fill:#ff1153;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" /></flowRegion><flowPara
+         id="flowPara10177-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';fill:#ff5283;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">electric vector</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.87378696;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4630-2-28-8"
+       width="31.052994"
+       height="27.724977"
+       x="418.90918"
+       y="402.72235"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot8068"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;letter-spacing:0px;word-spacing:0px;fill:#7ab3ea;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.4087857,0,0,1.4087495,-195.28095,-97.187316)"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png"><flowRegion
+         id="flowRegion8070"><rect
+           id="rect8072"
+           width="46.467014"
+           height="25.253817"
+           x="438.40622"
+           y="349.29602"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;fill:#7ab3ea;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara8074"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;fill:#7ab3ea;fill-opacity:1">e-</flowPara></flowRoot>    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:0.87378696;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4630-2-28-86"
+       width="137.78461"
+       height="76.820274"
+       x="290.83121"
+       y="253.30188"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot10139-3"
+       style="font-style:normal;font-weight:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(1.4087855,8.1135485e-4,-8.1137562e-4,1.4087493,-254.33091,-259.77604)"
+       inkscape:export-xdpi="188.17557"
+       inkscape:export-ydpi="188.17557"
+       inkscape:export-filename="/home/heloise/Thesis/figures/intro/electron_scattering.png"><flowRegion
+         id="flowRegion10141-6"><rect
+           id="rect10143-7"
+           width="186.42857"
+           height="50.000008"
+           x="342.85715"
+           y="364.50507"
+           style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara10147-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">plane of </flowPara><flowPara
+         id="flowPara7190"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:NanumGothic;-inkscape-font-specification:NanumGothic;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1">scattering</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot15342"
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sawasdee;font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Sawasdee;font-stretch:normal;font-variant:normal;"><flowRegion
+         id="flowRegion15344"><rect
+           id="rect15346"
+           width="156.2706"
+           height="28.991379"
+           x="251.73001"
+           y="567.99408"
+           style="-inkscape-font-specification:Sawasdee;font-family:Sawasdee;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
+         id="flowPara15348" /></flowRoot>  </g>
+</svg>

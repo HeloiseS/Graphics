@@ -17,7 +17,8 @@ There are two main purposes:
 This content is more academic and specialist oriented (as opposed to the what's a.. infographcis which are aimed at the general public).
 
 * sn_spectra (SVG, PDF, PNG): Just a summary of the main features of SN spectra. Inspired by similar graphs by Kasen and Gal-Yam.
-
+* electron_scattering (SVG, PDF, PNG)
+* sn_classification (SVG, PDF, PNG): Summary of the supernvoa classification. One of my older pics.
 
 ## "What's a..." infographics.
 
