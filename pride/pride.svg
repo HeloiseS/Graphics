@@ -10140,6 +10140,508 @@
          rx="23.2335"
          ry="15.1523" />
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7810"
+       id="linearGradient4538"
+       x1="673.95972"
+       y1="849.50507"
+       x2="1193.8419"
+       y2="727.62994"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="linearGradient7810"
+       inkscape:collect="always">
+      <stop
+         id="stop7812"
+         offset="0"
+         style="stop-color:#ff0f50;stop-opacity:1" />
+      <stop
+         id="stop7814"
+         offset="1"
+         style="stop-color:#233fff;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient7810"
+       id="linearGradient4546"
+       x1="770.03113"
+       y1="838.72235"
+       x2="957.63818"
+       y2="792.51746"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.09404108,0.41092193,-0.4103559,-0.0941708,1371.6896,970.74082)" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15859">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15861"
+         width="734.73291"
+         height="1035.5797"
+         x="-450.60245"
+         y="-1014.3182"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15863">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15865"
+         width="1830.4664"
+         height="2579.9768"
+         x="-272.50409"
+         y="-2371.8948"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15867">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15869"
+         width="2180.7158"
+         height="3033.762"
+         x="846.61212"
+         y="-1737.9275"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15871">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15873"
+         width="349.75922"
+         height="492.97308"
+         x="131.00688"
+         y="107.49564"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15875">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15877"
+         width="349.75922"
+         height="492.97308"
+         x="127.89413"
+         y="108.62092"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15879">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15881"
+         width="734.73291"
+         height="1035.5797"
+         x="4.0406103"
+         y="-25.381346"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15883">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15885"
+         width="1665.9061"
+         height="2348.0352"
+         x="-472.04678"
+         y="-500.02225"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15887">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15889"
+         width="734.73291"
+         height="1035.5797"
+         x="21.213203"
+         y="-25.381346"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15891">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15893"
+         width="1665.9061"
+         height="2348.0352"
+         x="220.86777"
+         y="-904.96393"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15895">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15897"
+         width="1665.9061"
+         height="2348.0352"
+         x="-309.5126"
+         y="-117.04447"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15899">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15901"
+         width="734.73291"
+         height="1035.5797"
+         x="4.0406103"
+         y="-25.381346"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15903">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15905"
+         width="734.73291"
+         height="1035.5797"
+         x="21.213203"
+         y="-25.381346"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15907">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15909"
+         width="1665.9061"
+         height="2348.0352"
+         x="107.08702"
+         y="5.9809895"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15911">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15913"
+         width="734.73291"
+         height="1035.5797"
+         x="21.213203"
+         y="-25.381346"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15915">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15917"
+         width="1665.9061"
+         height="2348.0352"
+         x="-22.081842"
+         y="-1772.9786"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15919">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15921"
+         width="1665.9061"
+         height="2348.0352"
+         x="-551.13361"
+         y="-2087.9939"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15923">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15925"
+         width="734.73291"
+         height="1035.5797"
+         x="4.0406103"
+         y="-25.381346"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15927">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15929"
+         width="786.61041"
+         height="1108.6992"
+         x="247.62526"
+         y="-58.985611"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15931">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15933"
+         width="1665.9061"
+         height="2348.0352"
+         x="4.0306511"
+         y="-845.62836"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15935">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15937"
+         width="786.61041"
+         height="1108.6992"
+         x="-253.89833"
+         y="143.21753"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15939">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15941"
+         width="1665.9061"
+         height="2348.0352"
+         x="-567.63733"
+         y="-210.37608"
+         rx="0"
+         ry="0"
+         transform="matrix(0.96417403,0.26527049,-0.26527049,0.96417403,0,0)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15943">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15945"
+         width="734.73291"
+         height="1035.5797"
+         x="-21.213203"
+         y="-25.381346"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15947">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15949"
+         width="1665.9061"
+         height="2348.0352"
+         x="-1112.8542"
+         y="-484.37378"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15951">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15953"
+         width="1665.9061"
+         height="2348.0352"
+         x="-1127.1367"
+         y="-1522.8864"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15955">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15957"
+         width="1665.9061"
+         height="2348.0352"
+         x="-1156.4139"
+         y="-1281.2917"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15959">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15961"
+         width="734.73291"
+         height="1035.5797"
+         x="-21.213203"
+         y="-25.381346"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15963">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15965"
+         width="734.73291"
+         height="1035.5797"
+         x="21.213203"
+         y="-25.381346"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15967">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15969"
+         width="1665.9061"
+         height="2348.0352"
+         x="-1170.7417"
+         y="-318.51855"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15971">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15973"
+         width="1665.9061"
+         height="2348.0352"
+         x="-662.53241"
+         y="-706.79114"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15975">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15977"
+         width="1665.9061"
+         height="2348.0352"
+         x="-665.97241"
+         y="-1524.6342"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15979">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15981"
+         width="1665.9061"
+         height="2348.0352"
+         x="646.85699"
+         y="325.53555"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15983">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15985"
+         width="1665.9062"
+         height="2348.0352"
+         x="-878.94458"
+         y="153.36481"
+         rx="0"
+         ry="0"
+         transform="matrix(0.99927946,-0.03795461,0.03795461,0.99927946,0,0)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15987">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15989"
+         width="1665.9061"
+         height="2348.0352"
+         x="63.576591"
+         y="-1573.6752"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15991">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15993"
+         width="1665.9062"
+         height="2348.0352"
+         x="-545.88373"
+         y="-447.23187"
+         rx="0"
+         ry="0"
+         transform="matrix(0.79948434,-0.60068694,0.60068694,0.79948434,0,0)" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15995">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect15997"
+         width="1665.9061"
+         height="2348.0352"
+         x="-1210.0732"
+         y="-1961.4514"
+         rx="0"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15999">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.73529412;fill-rule:nonzero;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect16001"
+         width="734.73291"
+         height="1035.5797"
+         x="4.0406103"
+         y="9.0479469"
+         rx="0"
+         ry="0" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -10148,9 +10650,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="287.29126"
-     inkscape:cy="456.4681"
+     inkscape:zoom="0.7"
+     inkscape:cx="182.80971"
+     inkscape:cy="471.72556"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -10364,7 +10866,9 @@
        clip-path="url(#clipPath4499-4-9-96-66-8)" />
     <g
        id="g15012"
-       clip-path="url(#clipPath15176)">
+       clip-path="url(#clipPath15999)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200">
       <rect
          ry="15.1523"
          rx="23.2335"
@@ -11702,7 +12206,10 @@
     </g>
     <g
        id="g5206"
-       transform="matrix(0.44104099,0,0,0.44104099,537.73253,888.27056)">
+       transform="matrix(0.44104099,0,0,0.44104099,537.73253,874.12842)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15995)">
       <ellipse
          inkscape:export-ydpi="200"
          inkscape:export-xdpi="200"
@@ -12059,7 +12566,10 @@
     </g>
     <g
        id="g6340"
-       transform="matrix(0.35260536,0.26492756,-0.26492756,0.35260536,244.79772,220.43768)">
+       transform="matrix(0.35260536,0.26492756,-0.26492756,0.35260536,244.79772,206.29554)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15991)">
       <ellipse
          transform="matrix(-0.99990085,-0.01408181,0.01408181,-0.99990085,0,0)"
          inkscape:export-ydpi="200"
@@ -12422,7 +12932,10 @@
     </g>
     <g
        id="g7352"
-       transform="matrix(0.44104099,0,0,0.44104099,-23.999272,717.24533)">
+       transform="matrix(0.44104099,0,0,0.44104099,-23.999272,703.10319)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15987)">
       <ellipse
          transform="matrix(0.95196472,0.30620774,-0.30620774,0.95196472,0,0)"
          inkscape:export-ydpi="200"
@@ -12808,7 +13321,10 @@
     </g>
     <g
        id="g8351"
-       transform="matrix(0.4407232,0.01673954,-0.01673954,0.4407232,391.69119,-44.450083)">
+       transform="matrix(0.4407232,0.01673954,-0.01673954,0.4407232,391.69119,-58.592219)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15983)">
       <ellipse
          transform="matrix(-0.99990085,-0.01408181,0.01408181,-0.99990085,0,0)"
          inkscape:export-ydpi="200"
@@ -13170,7 +13686,10 @@
     </g>
     <g
        id="g9594"
-       transform="matrix(0.44104099,0,0,0.44104099,-281.24983,-120.38443)">
+       transform="matrix(0.44104099,0,0,0.44104099,-281.24983,-134.52657)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15979)">
       <ellipse
          inkscape:export-ydpi="200"
          inkscape:export-xdpi="200"
@@ -13536,7 +14055,10 @@
        xml:space="preserve"
        id="flowRoot8924"
        style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.44104099,0,0,0.44104099,297.76175,695.61624)"><flowRegion
+       transform="matrix(0.44104099,0,0,0.44104099,297.76175,681.4741)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15975)"><flowRegion
          id="flowRegion8926"><rect
            id="rect8928"
            width="224.28572"
@@ -13549,7 +14071,10 @@
        xml:space="preserve"
        id="flowRoot8924-6"
        style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.44104099,0,0,0.44104099,296.24456,334.91396)"><flowRegion
+       transform="matrix(0.44104099,0,0,0.44104099,296.24456,320.77182)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15971)"><flowRegion
          id="flowRegion8926-2"><rect
            id="rect8928-7"
            width="224.28572"
@@ -13562,7 +14087,10 @@
        xml:space="preserve"
        id="flowRoot8924-6-5"
        style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.44104099,0,0,0.44104099,520.3857,163.66982)"><flowRegion
+       transform="matrix(0.44104099,0,0,0.44104099,520.3857,149.52768)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15967)"><flowRegion
          id="flowRegion8926-2-8"><rect
            id="rect8928-7-8"
            width="224.28572"
@@ -13575,7 +14103,10 @@
        xml:space="preserve"
        id="flowRoot8924-6-56"
        style="font-style:normal;font-weight:normal;font-size:12.12862682px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-17.172593,48.571428)"><flowRegion
+       transform="translate(-17.172593,34.429292)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15963)"><flowRegion
          id="flowRegion8926-2-5"><rect
            id="rect8928-7-6"
            width="117.82095"
@@ -13588,7 +14119,10 @@
        xml:space="preserve"
        id="flowRoot8924-6-56-4"
        style="font-style:normal;font-weight:normal;font-size:12.12862682px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(25.253813,48.571428)"><flowRegion
+       transform="translate(25.253813,34.429292)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15959)"><flowRegion
          id="flowRegion8926-2-5-8"><rect
            id="rect8928-7-6-8"
            width="117.82095"
@@ -13599,7 +14133,10 @@
          id="flowPara8930-1-8-3"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.05204964px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">TRANS</flowPara></flowRoot>    <g
        id="g9449"
-       transform="matrix(0.44104099,0,0,0.44104099,514.06654,588.29226)">
+       transform="matrix(0.44104099,0,0,0.44104099,514.06654,574.15012)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15955)">
       <ellipse
          transform="matrix(-0.99864591,-0.05202251,0.05202251,-0.99864591,0,0)"
          inkscape:export-ydpi="200"
@@ -13950,7 +14487,10 @@
        xml:space="preserve"
        id="flowRoot8924-6-5-3"
        style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.44104099,0,0,0.44104099,501.15409,694.84538)"><flowRegion
+       transform="matrix(0.44104099,0,0,0.44104099,501.15409,680.70324)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15951)"><flowRegion
          id="flowRegion8926-2-8-0"><rect
            id="rect8928-7-8-9"
            width="365.70706"
@@ -13961,7 +14501,10 @@
          id="flowPara8930-1-4-9"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:50px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">NON-BINARY</flowPara></flowRoot>    <g
        id="g9865"
-       transform="matrix(0.44104099,0,0,0.44104099,494.85495,236.81878)">
+       transform="matrix(0.44104099,0,0,0.44104099,494.85495,222.67664)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15947)">
       <ellipse
          inkscape:export-ydpi="200"
          inkscape:export-xdpi="200"
@@ -14079,7 +14622,10 @@
        xml:space="preserve"
        id="flowRoot8924-6-56-5"
        style="font-style:normal;font-weight:normal;font-size:12.12862682px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(25.253813,48.571428)"><flowRegion
+       transform="translate(25.253813,34.429292)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15943)"><flowRegion
          id="flowRegion8926-2-5-4"><rect
            id="rect8928-7-6-2"
            width="117.82095"
@@ -14090,7 +14636,10 @@
          id="flowPara8930-1-8-4"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.05204964px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">INTERSEX</flowPara></flowRoot>    <g
        id="g5901"
-       transform="matrix(0.42524027,-0.11699516,0.11699516,0.42524027,254.39195,115.97456)">
+       transform="matrix(0.42524027,-0.11699516,0.11699516,0.42524027,254.39195,101.83242)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15939)">
       <ellipse
          transform="matrix(-0.37101776,-0.92862577,0.92862577,-0.37101776,0,0)"
          inkscape:export-ydpi="200"
@@ -14467,7 +15016,10 @@
        xml:space="preserve"
        id="flowRoot8924-6-56-0"
        style="font-style:normal;font-weight:normal;font-size:12.9849968px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.93404932,0,0,0.93404932,241.19417,-110.58215)"><flowRegion
+       transform="matrix(0.93404932,0,0,0.93404932,241.19417,-124.72429)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15935)"><flowRegion
          id="flowRegion8926-2-5-9"><rect
            id="rect8928-7-6-1"
            width="158.09732"
@@ -14478,7 +15030,10 @@
          id="flowPara8930-1-8-7"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:23.60908508px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">DEMISEXUAL</flowPara></flowRoot>    <g
        id="g7273"
-       transform="matrix(0.44104099,0,0,0.44104099,2.2629279,396.14685)">
+       transform="matrix(0.44104099,0,0,0.44104099,2.2629279,382.00471)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15931)">
       <ellipse
          transform="matrix(0.76103448,0.64871143,-0.64871143,0.76103448,0,0)"
          inkscape:export-ydpi="200"
@@ -15026,7 +15581,10 @@
        xml:space="preserve"
        id="flowRoot8924-6-56-5-4"
        style="font-style:normal;font-weight:normal;font-size:12.9849968px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0.93404932,0,0,0.93404932,-227.2536,78.285554)"><flowRegion
+       transform="matrix(0.93404932,0,0,0.93404932,-227.2536,64.143418)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15927)"><flowRegion
          id="flowRegion8926-2-5-4-8"><rect
            id="rect8928-7-6-2-0"
            width="126.13996"
@@ -15039,7 +15597,10 @@
        xml:space="preserve"
        id="flowRoot8924-6-5-3-9"
        style="font-style:normal;font-weight:normal;font-size:12.12862778px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(0,48.571428)"><flowRegion
+       transform="translate(0,34.429292)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15923)"><flowRegion
          id="flowRegion8926-2-8-0-0"><rect
            id="rect8928-7-8-9-3"
            width="161.29179"
@@ -15050,7 +15611,10 @@
          id="flowPara8930-1-4-9-3"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.05204964px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">POLY</flowPara></flowRoot>    <g
        id="g11284"
-       transform="matrix(0.44104099,0,0,0.44104099,247.11311,944.08094)">
+       transform="matrix(0.44104099,0,0,0.44104099,247.11311,929.9388)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15919)">
       <ellipse
          inkscape:export-ydpi="200"
          inkscape:export-xdpi="200"
@@ -15246,7 +15810,10 @@
     </g>
     <g
        id="g8443"
-       transform="matrix(0.44104099,0,0,0.44104099,13.779608,805.14635)">
+       transform="matrix(0.44104099,0,0,0.44104099,13.779608,791.00421)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15915)">
       <ellipse
          inkscape:export-ydpi="200"
          inkscape:export-xdpi="200"
@@ -15568,7 +16135,10 @@
        xml:space="preserve"
        id="flowRoot8924-6-5-3-9-7"
        style="font-style:normal;font-weight:normal;font-size:12.12862778px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-17.172593,48.571428)"><flowRegion
+       transform="translate(-17.172593,34.429292)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15911)"><flowRegion
          id="flowRegion8926-2-8-0-0-8"><rect
            id="rect8928-7-8-9-3-8"
            width="161.29179"
@@ -15579,7 +16149,10 @@
          id="flowPara8930-1-4-9-3-6"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.05204964px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">PAN</flowPara></flowRoot>    <g
        id="g9143"
-       transform="matrix(0.44104099,0,0,0.44104099,-43.189154,20.552221)">
+       transform="matrix(0.44104099,0,0,0.44104099,-43.189154,6.4100855)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15907)">
       <ellipse
          inkscape:export-ydpi="200"
          inkscape:export-xdpi="200"
@@ -15889,7 +16462,10 @@
        xml:space="preserve"
        id="flowRoot8924-6-5-5"
        style="font-style:normal;font-weight:normal;font-size:12.12862778px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-17.172593,48.571428)"><flowRegion
+       transform="translate(-17.172593,34.429292)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15903)"><flowRegion
          id="flowRegion8926-2-8-3"><rect
            id="rect8928-7-8-94"
            width="139.24294"
@@ -15902,7 +16478,10 @@
        xml:space="preserve"
        id="flowRoot8924-6-5-54"
        style="font-style:normal;font-weight:normal;font-size:12.12862778px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(0,48.571428)"><flowRegion
+       transform="translate(0,34.429292)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15899)"><flowRegion
          id="flowRegion8926-2-8-1"><rect
            id="rect8928-7-8-5"
            width="98.919197"
@@ -15913,7 +16492,10 @@
          id="flowPara8930-1-4-5"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.05204964px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">ARO</flowPara></flowRoot>    <g
        id="g10061"
-       transform="matrix(0.44104099,0,0,0.44104099,140.54836,74.811492)">
+       transform="matrix(0.44104099,0,0,0.44104099,140.54836,60.669356)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15895)">
       <ellipse
          inkscape:export-ydpi="200"
          inkscape:export-xdpi="200"
@@ -16292,7 +16874,10 @@
     </g>
     <g
        id="g10804"
-       transform="matrix(0.44104099,0,0,0.44104099,-93.371126,422.31627)">
+       transform="matrix(0.44104099,0,0,0.44104099,-93.371126,408.17413)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15891)">
       <ellipse
          inkscape:export-ydpi="200"
          inkscape:export-xdpi="200"
@@ -16627,7 +17212,10 @@
        xml:space="preserve"
        id="flowRoot8924-6-5-6"
        style="font-style:normal;font-weight:normal;font-size:12.12862778px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-17.172593,48.571428)"><flowRegion
+       transform="translate(-17.172593,34.429292)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15887)"><flowRegion
          id="flowRegion8926-2-8-5"><rect
            id="rect8928-7-8-0"
            width="160.66492"
@@ -16638,7 +17226,10 @@
          id="flowPara8930-1-4-0"
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:22.05204964px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">GENDER FLUID</flowPara></flowRoot>    <g
        id="g11372"
-       transform="matrix(0.44104099,0,0,0.44104099,212.23259,243.72039)">
+       transform="matrix(0.44104099,0,0,0.44104099,212.23259,229.57825)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15883)">
       <ellipse
          inkscape:export-ydpi="200"
          inkscape:export-xdpi="200"
@@ -16872,7 +17463,10 @@
        xml:space="preserve"
        id="flowRoot8924-6-56-0-8"
        style="font-style:normal;font-weight:normal;font-size:12.12862778px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(0,48.571428)"><flowRegion
+       transform="translate(0,34.429292)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15879)"><flowRegion
          id="flowRegion8926-2-5-9-3"><rect
            id="rect8928-7-6-1-8"
            width="229.64612"
@@ -16885,7 +17479,10 @@
        transform="matrix(2.100682,0,0,2.100682,-264.6243,-219.13006)"
        xml:space="preserve"
        id="flowRoot8924-6-5-5-5"
-       style="font-style:normal;font-weight:normal;font-size:12.12862778px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:12.12862778px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15875)"><flowRegion
          id="flowRegion8926-2-8-3-1"><rect
            id="rect8928-7-8-94-9"
            width="416.02472"
@@ -16898,7 +17495,10 @@
        transform="matrix(2.100682,0,0,2.100682,-271.16319,-216.76622)"
        xml:space="preserve"
        id="flowRoot8924-6-5-5-5-1"
-       style="font-style:normal;font-weight:normal;font-size:12.12862778px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1d0040;fill-opacity:0.7352941;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:12.12862778px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1d0040;fill-opacity:0.7352941;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15871)"><flowRegion
          id="flowRegion8926-2-8-3-1-3"><rect
            id="rect8928-7-8-94-9-1"
            width="416.02472"
@@ -16907,5 +17507,67 @@
            y="108.03335"
            style="fill:#1d0040;fill-opacity:0.7352941;" /></flowRegion><flowPara
          id="flowPara8930-1-4-1-7-2"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:50px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';text-align:center;text-anchor:middle;fill:#1d0040;fill-opacity:0.7352941;">PRIDE PLANETS</flowPara></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:50px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Semi-Bold';text-align:center;text-anchor:middle;fill:#1d0040;fill-opacity:0.7352941;">PRIDE PLANETS</flowPara></flowRoot>    <g
+       id="g4317"
+       transform="matrix(0.33692281,0,0,0.34135168,-281.20232,602.29243)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       style="stroke-width:5.89744329;stroke-miterlimit:4;stroke-dasharray:none"
+       clip-path="url(#clipPath15867)">
+      <path
+         inkscape:export-ydpi="322.5256"
+         inkscape:export-xdpi="322.5256"
+         transform="matrix(-0.09404108,0.41092193,-0.4103559,-0.0941708,1372.0338,970.32913)"
+         d="m 888.04631,943.79784 -124.96883,27.86681 -86.61778,-94.29277 38.35105,-122.15959 124.96882,-27.86681 86.61779,94.29277 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.3513958"
+         sodipodi:arg1="0.82779698"
+         sodipodi:r2="64.019073"
+         sodipodi:r1="128.03815"
+         sodipodi:cy="849.50507"
+         sodipodi:cx="801.42853"
+         sodipodi:sides="6"
+         id="path6599-4-8-8-3-7"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient4538);stroke-width:13.99873734;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:type="star" />
+      <path
+         id="path6599-4-7-8"
+         d="m 948.08928,1206.5714 -46.8391,26.7131 -0.076,13 46.3659,27.1715 46.8391,-26.7131 0.076,-13 -46.3659,-27.1715 z"
+         clip-path="none"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient4546);stroke-width:5.89744329;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7902-4-3"
+       style="font-style:normal;font-weight:normal;font-size:19.43203545px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.40139109,0,0,0.40139109,113.42132,961.10534)"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       clip-path="url(#clipPath15863)"><flowRegion
+         id="flowRegion7904-9-6"><rect
+           id="rect7906-90-7"
+           width="367.7193"
+           height="57.819241"
+           x="266.616"
+           y="150.16922" /></flowRegion><flowPara
+         id="flowPara7908-8-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45px;font-family:Sawasdee;-inkscape-font-specification:Sawasdee;fill:#d6d6d6;fill-opacity:1">hfstevance.com</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot7902-4-3-0"
+       style="font-style:normal;font-weight:normal;font-size:7.7998457px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:export-xdpi="200"
+       inkscape:export-ydpi="200"
+       transform="translate(454.64305,1023.3661)"
+       clip-path="url(#clipPath15859)"><flowRegion
+         id="flowRegion7904-9-6-6"><rect
+           id="rect7906-90-7-8"
+           width="147.59924"
+           height="23.208128"
+           x="-1.4813913"
+           y="-2.8394163" /></flowRegion><flowPara
+         id="flowPara7908-8-5-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.06259918px;font-family:Sawasdee;-inkscape-font-specification:Sawasdee;fill:#d6d6d6;fill-opacity:1">@Sydonahi</flowPara></flowRoot>  </g>
 </svg>
