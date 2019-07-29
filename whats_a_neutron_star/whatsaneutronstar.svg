@@ -1914,11 +1914,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.97178336"
+     inkscape:zoom="0.48589168"
      inkscape:cx="449.51717"
-     inkscape:cy="1058.1735"
+     inkscape:cy="194.99497"
      inkscape:document-units="px"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer4"
      showgrid="false"
      units="in"
      height="15in"
@@ -1940,7 +1940,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -10073,17 +10073,17 @@
        inkscape:export-ydpi="199.85007"><flowRegion
          id="flowRegion19638-5"><rect
            id="rect19640-2"
-           width="432.41049"
-           height="176.99985"
+           width="442.18634"
+           height="175.97078"
            x="193.71835"
            y="830.3465"
            style="fill:#a8d7ff;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.78019524px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:justify;text-anchor:start;fill:#a8d7ff;fill-opacity:1"
          id="flowPara19646-0">In the outer core, t<flowSpan
    style="fill:#ebf6ff;fill-opacity:1"
-   id="flowSpan22953">he pressure is such that</flowSpan> most nuclei have dissolved and only neutrons remain. <flowSpan
+   id="flowSpan22953">he pressure is such that</flowSpan> most nuclei have dissolved <flowSpan
    style="fill:#ebf6ff;fill-opacity:1"
-   id="flowSpan22955">They form a special phase of matter called </flowSpan>&quot;Nuclear Pasta&quot;</flowPara></flowRoot>    <flowRoot
+   id="flowSpan7951">and very few protons remain. This is a special phase of matter called </flowSpan>&quot;Nuclear Pasta&quot;.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot19636-0-2"
        style="font-style:normal;font-weight:normal;font-size:21.73134995px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#a8d7ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -10098,7 +10098,7 @@
            y="830.3465"
            style="fill:#a8d7ff;fill-opacity:1" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.78019524px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:justify;text-anchor:start;fill:#ebf6ff;fill-opacity:1"
-         id="flowPara19646-0-7">No-one knows what is truley at the center of a Neutron Star! The neutrons might desolve, leaving only quarks. Or could it even harbour Strange Matter?!</flowPara></flowRoot>    <ellipse
+         id="flowPara19646-0-7">No-one knows what is truley at the center of a Neutron Star! The neutrons might desolve, leaving only quarks. Or could it even harbour strange matter?!</flowPara></flowRoot>    <ellipse
        style="display:inline;opacity:1;fill:#00ff11;fill-opacity:1;fill-rule:nonzero;stroke:#1b1403;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.74271845;marker-mid:"
        id="path21539-3"
        cx="610.42877"
