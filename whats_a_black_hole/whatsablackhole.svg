@@ -2283,11 +2283,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45504893"
-     inkscape:cx="432.28632"
-     inkscape:cy="797.22577"
+     inkscape:zoom="0.42616399"
+     inkscape:cx="467.66837"
+     inkscape:cy="-134.35283"
      inkscape:document-units="px"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer6"
      showgrid="false"
      units="in"
      height="15in"
@@ -2309,7 +2309,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2612,9 +2612,9 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:center;text-anchor:middle;fill:#f11ae3;fill-opacity:1"
          id="flowPara18022-6"><flowSpan
    style="fill:#fdeffc;fill-opacity:1"
-   id="flowSpan6898"> A</flowSpan> BLACK HOLE</flowPara><flowPara
+   id="flowSpan6898"> A</flowSpan> BLACK HOLE:</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:center;text-anchor:middle;fill:#fde6fb;fill-opacity:1"
-         id="flowPara6952">region of space nothing can espace from.</flowPara><flowPara
+         id="flowPara6952">region of space nothing can escape from.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:center;text-anchor:middle;fill:#fde6fb;fill-opacity:1"
          id="flowPara11692" /></flowRoot>    <text
        xml:space="preserve"
@@ -6904,7 +6904,7 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:start;text-anchor:start;fill:#f11ae3;fill-opacity:1"
          id="flowPara8303"><flowSpan
    style="fill:#feecfd;fill-opacity:1"
-   id="flowSpan6179">TWO EASY RECIPES</flowSpan> FOR A BLACKHOLE</flowPara></flowRoot>    <flowRoot
+   id="flowSpan6179">TWO EASY RECIPES</flowSpan> FOR A BLACK HOLE</flowPara></flowRoot>    <flowRoot
        transform="matrix(0.83685189,0,0,0.86886843,-777.44965,531.45074)"
        xml:space="preserve"
        id="flowRoot10805-8-9-7-1-3-6-3-7-0"
@@ -6919,7 +6919,18 @@
            y="440.83038"
            style="text-align:center;text-anchor:middle;fill:#e6e6e6" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:46.76446152px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:center;text-anchor:middle;fill:#e6e6e6"
-         id="flowPara7674-8">Gravitational Waves</flowPara></flowRoot>  </g>
+         id="flowPara7674-8">Gravitational Waves</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1073.5304"
+       y="1510.2054"
+       id="text5885"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5887"
+         x="1073.5304"
+         y="1510.2054" /></text>
+  </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
@@ -8021,7 +8032,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot10805-8-9-7"
-       style="font-style:normal;font-weight:normal;font-size:21.43371201px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#d403d5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:21.43371201px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#d403d5;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(1.1509473,0,0,1.1509473,493.4174,592.1214)"
        inkscape:export-xdpi="199.85007"
        inkscape:export-ydpi="199.85007"><flowRegion
@@ -8031,13 +8042,11 @@
            height="132.4696"
            x="-141.08002"
            y="151.37817"
-           style="text-align:start;text-anchor:start;fill:#d403d5;fill-opacity:1;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:start;text-anchor:start;fill:#d403d5;fill-opacity:1;"
-         id="flowPara5315">Black Holes <flowSpan
-   style="fill:#d403d5;fill-opacity:1;"
-   id="flowSpan5945"><flowSpan
+           style="text-align:start;text-anchor:start;fill:#d403d5;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:start;text-anchor:start;fill:#d403d5;fill-opacity:1"
+         id="flowPara5315">Black holes <flowSpan
    style="fill:#ffebff;fill-opacity:1"
-   id="flowSpan5949">distort space-time so strongly they can</flowSpan> capture</flowSpan> light!</flowPara></flowRoot>    <g
+   id="flowSpan5949">distort space-time so strongly they can</flowSpan> capture light!</flowPara></flowRoot>    <g
        id="g7430"
        transform="translate(-380.24929,-32.709617)"
        inkscape:export-xdpi="199.85007"
@@ -8357,7 +8366,7 @@
          id="flowPara5345-7-9">to</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot10805-8-9-7-1-3-4-9"
-       style="font-style:normal;font-weight:normal;font-size:30.54093742px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#e31ad6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:30.54093742px;line-height:125%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#e31ad6;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="matrix(0.94700046,0,0,0.94700046,48.416391,385.31937)"
        inkscape:export-xdpi="199.85007"
        inkscape:export-ydpi="199.85007"><flowRegion
@@ -8367,11 +8376,11 @@
            height="181.17728"
            x="-0.47824314"
            y="-6.1850238"
-           style="text-align:start;text-anchor:start;fill:#e31ad6;fill-opacity:1;" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:start;text-anchor:start;fill:#e31ad6;fill-opacity:1;"
+           style="text-align:start;text-anchor:start;fill:#e31ad6;fill-opacity:1" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:start;text-anchor:start;fill:#e31ad6;fill-opacity:1"
          id="flowPara8874-0"><flowSpan
    style="text-align:start;text-anchor:start;fill:#fdedfc;fill-opacity:1"
-   id="flowSpan5421">If the Earth turned into a blackhole, it </flowSpan><flowSpan
+   id="flowSpan5421">If the Earth turned into a black hole, it </flowSpan><flowSpan
    style="fill:#fdedfc;fill-opacity:1"
    id="flowSpan5947">could fit</flowSpan> inside a marble!</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -8666,45 +8675,45 @@
            x="-51.662319"
            y="1132.7556" /></flowRegion><flowPara
          id="flowPara5716" /></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:30.28378487px;line-height:125%;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#f11ae3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:30.28378487px;line-height:125%;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#f11ae3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot10805-8-9-7-1-3-6-3-7-0-2-7-6"
        xml:space="preserve"
        transform="matrix(0.81017186,0,0,0.84116766,-1057.8155,788.40281)"
        inkscape:export-xdpi="199.85007"
        inkscape:export-ydpi="199.85007"><flowRegion
          id="flowRegion10807-9-0-2-5-5-1-3-5-8-1-5-2"><rect
-           style="font-size:30.28378487px;text-align:justify;text-anchor:start;fill:#f11ae3;fill-opacity:1;"
+           style="font-size:30.28378487px;text-align:justify;text-anchor:start;fill:#f11ae3;fill-opacity:1"
            y="441.6954"
            x="1709.4012"
            height="290.8989"
            width="314.63214"
            id="rect10809-6-0-0-8-8-5-2-9-3-0-3-9" /></flowRegion><flowPara
          id="flowPara7674-8-5-5-1"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.25540543px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:justify;text-anchor:start;fill:#f11ae3;fill-opacity:1;"><flowSpan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.25540543px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:justify;text-anchor:start;fill:#f11ae3;fill-opacity:1"><flowSpan
    style="fill:#feecfd;fill-opacity:1"
-   id="flowSpan8495">Some </flowSpan>Super massive <flowSpan
+   id="flowSpan8495">Some </flowSpan>super massive <flowSpan
    style="fill:#feecfd;fill-opacity:1"
-   id="flowSpan8497">Black holes at </flowSpan>the center of galaxies <flowSpan
+   id="flowSpan8497">black holes at </flowSpan>the center of galaxies <flowSpan
    style="fill:#feecfd;fill-opacity:1"
    id="flowSpan8499">feed on nearby gas. </flowSpan></flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.25540543px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:justify;text-anchor:start;fill:#f11ae3;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.25540543px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:justify;text-anchor:start;fill:#f11ae3;fill-opacity:1"
          id="flowPara5749"><flowSpan
    style="fill:#feecfd;fill-opacity:1"
    id="flowSpan8501">They create powerful jets and bright emissions</flowSpan> visible from the furthest reaches of space. </flowPara></flowRoot>    <flowRoot
-       style="font-style:normal;font-weight:normal;font-size:30.28378487px;line-height:125%;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#f11ae3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       style="font-style:normal;font-weight:normal;font-size:30.28378487px;line-height:125%;font-family:sans-serif;text-align:justify;letter-spacing:0px;word-spacing:0px;text-anchor:start;display:inline;fill:#f11ae3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot10805-8-9-7-1-3-6-3-7-0-2-7-6-2"
        xml:space="preserve"
        transform="matrix(0.81017186,0,0,0.84116766,-767.51187,798.9666)"
        inkscape:export-xdpi="199.85007"
        inkscape:export-ydpi="199.85007"><flowRegion
          id="flowRegion10807-9-0-2-5-5-1-3-5-8-1-5-2-7"><rect
-           style="font-size:30.28378487px;text-align:justify;text-anchor:start;fill:#f11ae3;fill-opacity:1;"
+           style="font-size:30.28378487px;text-align:justify;text-anchor:start;fill:#f11ae3;fill-opacity:1"
            y="441.6954"
            x="1709.4012"
            height="274.99548"
            width="310.82175"
            id="rect10809-6-0-0-8-8-5-2-9-3-0-3-9-0" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.25540543px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:justify;text-anchor:start;fill:#f11ae3;fill-opacity:1;"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.25540543px;font-family:Sawasdee;-inkscape-font-specification:'Sawasdee Bold';text-align:justify;text-anchor:start;fill:#f11ae3;fill-opacity:1"
          id="flowPara5780"><flowSpan
    style="fill:#feecfd;fill-opacity:1"
    id="flowSpan8503">Two black holes in a</flowSpan> binary system <flowSpan
@@ -8713,7 +8722,7 @@
    style="fill:#feecfd;fill-opacity:1"
    id="flowSpan8507">. This drives them together until they </flowSpan>merge<flowSpan
    style="fill:#feecfd;fill-opacity:1"
-   id="flowSpan8509">, which releases a graviational</flowSpan> signal we can measure!</flowPara></flowRoot>    <g
+   id="flowSpan8509">, which releases a gravitational</flowSpan> signal we can measure!</flowPara></flowRoot>    <g
        id="g8336"
        transform="translate(-17.266042,29.597959)"
        inkscape:export-xdpi="199.85007"
@@ -9116,5 +9125,16 @@
            sodipodi:nodetypes="ccc" />
       </g>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:27.5px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="438.21158"
+       y="1182.28"
+       id="text5881"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5883"
+         x="438.21158"
+         y="1182.28"></tspan></text>
   </g>
 </svg>
